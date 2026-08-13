@@ -1,0 +1,5 @@
+name=str(input("What is your name? "))
+age=int(input("How old are you? "))
+city=str(input("Where do you live? "))
+sub=str(input("What is your favorite subject? "))
+print("Hey everyone my name is",name," and I am",age," years old. I live in",city,". My favorite subject is",sub,". Thank you :-)....")
